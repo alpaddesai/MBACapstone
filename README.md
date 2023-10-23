@@ -19,3 +19,9 @@ in progress...
 ![image](Slide7.JPG)
 
 ![image](Slide8.JPG)
+
+![image](EthicsandExcellence.png)
+
+![image](USCopyrightCertificate.png)
+
+
