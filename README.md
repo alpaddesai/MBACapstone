@@ -1,6 +1,6 @@
 # MBA Capstone
 
-The project focuses on ecommerce, digital marketing and how data science can be utilized to understand how leads are generated, which content maximizes revenue and the NPV analysis of the marketing campaign. 
+The project focuses on ecommerce, digital marketing and how data science can be utilized to understand how leads are generated, which content maximizes revenue and the NPV analysis of the marketing campaign with the help of google analytics.
 
 ![image](Slide1.JPG)
 
