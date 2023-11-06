@@ -18,6 +18,8 @@ The project focuses on ecommerce, digital marketing and how data science can be 
 
 ![image](Slide8.JPG)
 
+![image](PragmaticMarketingCertification.png)
+
 ![image](EthicsandExcellence.png)
 
 ![image](USCopyrightCertificate.png)
