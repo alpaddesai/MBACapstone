@@ -23,3 +23,5 @@ The project focuses on ecommerce, digital marketing and how data science can be 
 ![image](EthicsandExcellence.png)
 
 ![image](USCopyrightCertificate.png)
+
+Additional details reference https://github.com/alpaddesai/Strategy
