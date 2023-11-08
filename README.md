@@ -20,4 +20,4 @@ The project focuses on ecommerce, digital marketing and how data science can be 
 
 ![image](USCopyrightCertificate.png)
 
-Additional details reference https://github.com/alpaddesai/Strategy
+Additional details reference https://github.com/alpaddesai/Strategy, https://github.com/alpaddesai/DataMining, and https://github.com/alpaddesai/BigDataDataScience.
